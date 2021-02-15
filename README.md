@@ -42,4 +42,4 @@ Asteroid Detection in .fits files using Tensorflow Keras.
   ---
   
   ### Contribution:
-  This is a very basic level project, with enough contributions, we can further scale it to greater heights.
+  This is a basic level project, with enough contributions, we can further scale it to greater heights.
